@@ -1,0 +1,14 @@
+Package: cum.dablincx.test
+Name: test tweak
+Depends:
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: funy test tweak
+Maintainer: dablincx <me@dablincx.dev>
+Author: dablincx <me@dablincx.dev>
+Filename: ./debs/test.deb
+Section: Tweaks
+Size: 6
+MD5Sum: 967ef2eb34634ba418db94dab610ba6f
+SHA1: 47618c808d0dbc1845ae03eb061cce381d9eaccd
+SHA256: 8517b64a7dfada982abdf62810e1c248d645151dc3d2352075c5cad87b3a2221
